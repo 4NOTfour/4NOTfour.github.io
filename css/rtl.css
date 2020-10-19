@@ -120,12 +120,12 @@ section .image{
     margin-left: auto;
 }
 
-#CreativeSolutions p, #Story p, #TheProcess p, #LiesAhead p, #CallUs p, #CallUs .contact{
+#Aboutus p, #Story p, #TheProcess p, #LiesAhead p, #CallUs p, #CallUs .contact{
     padding-right: 2.5vw;
     padding-left: 10vw;
 }
 
-#CreativeSolutions .section-title{
+#Aboutus .section-title{
     right: auto;
     left: -10vw;
 }
@@ -184,7 +184,7 @@ section .image{
 }
 
 @media (max-width: 991px){
-    #CreativeSolutions .section-title{
+    #Aboutus .section-title{
         left: auto;
         right: auto;
     }
@@ -244,7 +244,7 @@ section .image{
         padding-right: 0;
     }
 
-    #CreativeSolutions .section-title{
+    #Aboutus .section-title{
         right: 0;
         left: auto;
     }

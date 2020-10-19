@@ -299,7 +299,7 @@ section{
     padding-left: 5vw;
 }
 
-#CreativeSolutions .grad-row.absolute-title [class*='col-']{
+#Aboutus .grad-row.absolute-title [class*='col-']{
     padding-top: 30vh;
 }
 
@@ -414,8 +414,8 @@ section .image{
     cursor: pointer;
 }
 
-/* 02. CreativeSolutions */
-#CreativeSolutions p,
+/* 02. Aboutus */
+#Aboutus p,
 #Story p,
 #TheProcess p,
 #LiesAhead p,
@@ -426,7 +426,7 @@ section .image{
     z-index: 1;
 }
 
-#CreativeSolutions .section-title{
+#Aboutus .section-title{
     position: absolute;
     z-index: 99;
     width: 17vw;
@@ -436,7 +436,7 @@ section .image{
     top: 10vh;
 }
 
-#CreativeSolutions .image{
+#Aboutus .image{
     background: url("../imgs/2.jpg")  right/cover;
     background-repeat: no-repeat;
 }
@@ -746,11 +746,11 @@ footer ul.links-ul li a:hover{
     .fp-viewing-8 .nextSlideRightMenu svg path{
         fill: #ffffff;
     }
-    #CreativeSolutions .grad-row.absolute-title [class*='col-'] {
+    #Aboutus .grad-row.absolute-title [class*='col-'] {
         padding-top: 17vh;
     }
 
-    #CreativeSolutions .image,
+    #Aboutus .image,
     #LiesAhead .image {
         height: auto !important;
         min-height: auto !important;
@@ -761,7 +761,7 @@ footer ul.links-ul li a:hover{
         max-height: 175px;
     }
 
-    #CreativeSolutions .section-title{
+    #Aboutus .section-title{
         right: auto;
     }
     #CallUs .call-div{
@@ -983,11 +983,11 @@ footer ul.links-ul li a:hover{
         height: calc(50vh - 350px);
     }
 
-    #CreativeSolutions .grad-row.absolute-title [class*="col-"] {
+    #Aboutus .grad-row.absolute-title [class*="col-"] {
         padding-top: 8vh;
     }
 
-    #CreativeSolutions .section-title {
+    #Aboutus .section-title {
         position: relative;
         margin: 0;
         width: auto;
@@ -999,7 +999,7 @@ footer ul.links-ul li a:hover{
         font-size: 1rem;
     }
 
-    #CreativeSolutions .image,
+    #Aboutus .image,
     #LiesAhead .image{
         display: none;
     }
