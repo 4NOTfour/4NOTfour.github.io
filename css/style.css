@@ -449,35 +449,35 @@ section .image{
     background-repeat: no-repeat;
 }
 
-/* 04. Transformation */
-#Transformation{
+/* 04. Ventures */
+#Ventures{
     background: url("../imgs/4.jpg")  center/cover;
     background-repeat: no-repeat;
 }
 
-#Transformation .layer-black{
+#Ventures .layer-black{
     opacity: 0.65;
 }
 
-#Transformation .col-12,
+#Ventures .col-12,
 #Excellence .col-12{
     max-width: 1200px;
 }
 
-#Transformation .section-title,
+#Ventures .section-title,
 #Excellence .section-title{
     text-align: center;
     max-width: 35vw;
 }
 
-#Transformation .section-title::after,
+#Ventures .section-title::after,
 #Excellence .section-title::after{
     right: 0;
     left: 0;
     margin: auto;
 }
 
-#Transformation .circle{
+#Ventures .circle{
     position: relative;
     width: 150px;
     height: 150px;
@@ -488,28 +488,28 @@ section .image{
 }
 
 
-#Transformation .circle:hover{
+#Ventures .circle:hover{
     transition: all 0.5s ease-out;
     border: 2px solid #00aeef;
 }
 
-#Transformation .circle:hover a{
+#Ventures .circle:hover a{
     transition: all 0.5s ease-out;
     color: #00aeef;
 }
 
-#Transformation .circle:hover img{
+#Ventures .circle:hover img{
     filter: grayscale(0%);
 }
 
-#Transformation .circle img{
+#Ventures .circle img{
     width: 50%;
     max-width: 60px;
     transition: all 0.5s ease-out;
     filter: grayscale(100%);
 }
 
-#Transformation .circle a{
+#Ventures .circle a{
     color: #fff;
     font-size: 20px;
     position: absolute;
@@ -912,7 +912,7 @@ footer ul.links-ul li a:hover{
         padding-bottom: 80px;
     }
 
-    #Transformation .section-title,
+    #Ventures .section-title,
     #Excellence .section-title{
         max-width: 65vw;
     }
@@ -928,29 +928,29 @@ footer ul.links-ul li a:hover{
         padding-left: 2.5vw;
     }
 
-    #Transformation{
+    #Ventures{
         background: url("../imgs/4-s.jpg")  center/cover;
     }
 
-    #Transformation .section-title{
+    #Ventures .section-title{
         font-size: 1.3rem;
         margin-bottom: 10px !important;
     }
 
-    #Transformation .owl-item{
+    #Ventures .owl-item{
         display: flex;
         align-content: center;
         justify-content: center;
     }
 
-    #Transformation .circle {
+    #Ventures .circle {
         width: 80px;
         height: 80px;
         margin: 15px !important;
         margin-right: 139px !important;
     }
 
-    #Transformation .circle a {
+    #Ventures .circle a {
         right: auto;
         top: 0;
         left: 101px;
@@ -960,7 +960,7 @@ footer ul.links-ul li a:hover{
         height: 126px;
     }
 
-    #Transformation .owl-carousel{
+    #Ventures .owl-carousel{
         max-width: 100vw;
     }
 

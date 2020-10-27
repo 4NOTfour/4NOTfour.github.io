@@ -130,7 +130,7 @@ section .image{
     left: -10vw;
 }
 
-#Transformation .section-title::after, #Excellence .section-title::after{
+#Ventures .section-title::after, #Excellence .section-title::after{
     left: 0;
     right: 0;
 }
@@ -229,12 +229,12 @@ section .image{
         padding-right: 2.5vw;
     }
 
-    #Transformation .circle{
+    #Ventures .circle{
         margin-left: 139px !important;
         margin-right: 0 !important;
     }
 
-    #Transformation .circle a{
+    #Ventures .circle a{
         left: auto;
         right: 101px;
         text-align: right;
